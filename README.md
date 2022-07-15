@@ -1,1 +1,1 @@
-# branches: main
+# branches: main, develop
